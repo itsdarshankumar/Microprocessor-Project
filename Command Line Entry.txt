@@ -1,0 +1,2 @@
+iverilog.exe -o processor ALU.v Control.v EXEStage.v Hazard.v IDStage.v IFStage.v MEMStage.v MasterCircuit.v PipelineRegisters.v Storage.v WBStage.v defines.v instructionMem.v testbench.v utility.v
+vvp.exe processor
