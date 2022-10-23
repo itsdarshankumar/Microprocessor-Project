@@ -28,10 +28,10 @@ defines.v contains constants used all over the project for OPCODES, EXECUTION CO
 
 ## Author
 
-[Lakshya Joshi](https://github.com/lakshya1310)
-[Darshan Kumar](https://github.com/itsdarshankumar)
-[Tushar Tembhurne](https://github.com/tusharrr17)
-[Om Gupta](https://github.com/omg-sator)
-[Partha Kaushik](https://github.com/parthanos)
-[Rishika](https://github.com/rishu-3619)
+- [Lakshya Joshi](https://github.com/lakshya1310)
+- [Darshan Kumar](https://github.com/itsdarshankumar)
+- [Tushar Tembhurne](https://github.com/tusharrr17)
+- [Om Gupta](https://github.com/omg-sator)
+- [Partha Kaushik](https://github.com/parthanos)
+- [Rishika](https://github.com/rishu-3619)
 
